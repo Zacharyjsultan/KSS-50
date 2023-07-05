@@ -17,7 +17,7 @@ KeelyShea.com
 Certified Birth oula CD(Dona), Reiki Master and Somatic Health
 Pastel colors
 Image?
-
+s
 I want to provide birth services for pregnant people and their families. Includes prenatal meetings, continuous in person support during birth and several follow up postpartum visits. I want to provide Reiki sessions to the general public and for birthing people and their families. I will also include various somatic practices throughout meetings. I want to provide safe supportive energy to all my clients
 My goals for this site are to put my name out there to the energy healing and birth communities, have families and individuals easily access me and my information to book appointments and learn more about me and my background
 I want my site to portray simplicity, safety, calm, soothing uplifting energy
