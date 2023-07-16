@@ -7,20 +7,23 @@ import Footer from "./Header&Footer/Footer";
 export default function HomePage() {
   return (
     <div>
-      <div className="header-container">
-        <Header />
-      </div>
-      <div>
-        <h1>HomePage</h1>
-        <Link to="/" className="button-1">
-          Go to HomePage
-        </Link>
-        <Link to="/contact" className="button-2">
-          Contact Me
-        </Link>
-      </div>
-      <div className="footer-container">
-        <Footer />
+      <div className="home-page">
+        <div className="header-container">
+          <Header />
+        </div>
+        <div>
+          <h1>HomePage</h1>
+          <Link to="/" className="button-1">
+            Keely Shea
+          </Link>
+          <br></br>
+          <Link to="/contact" className="button-2">
+            Contact Me
+          </Link>
+        </div>
+        <div className="footer-container">
+          <Footer />
+        </div>
       </div>
     </div>
   );

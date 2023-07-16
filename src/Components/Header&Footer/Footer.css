@@ -1,0 +1,8 @@
+.landing-background {
+  background-color: #b1a2ca;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
