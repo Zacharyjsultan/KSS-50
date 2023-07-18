@@ -1,13 +1,13 @@
 import React from "react";
-import "./Landing.css";
+import "./About.css";
 import { Button } from "@mui/material";
 
-export default function Landing() {
+export default function About() {
   return (
-    <div className="landing-background">
+    <div className="about-background">
       <div className="container">
         <div className="entry-button">
-          <Button href="/HomePage" className="button">
+          <Button href="/" className="button">
             Keely Shea
           </Button>
         </div>
