@@ -15,15 +15,33 @@ export default function Contact() {
           >
             <div>
               <label for="name">Name</label>
-              <input name="Name" id="name" type="text" required />
+              <input
+                name="Name"
+                id="name"
+                type="text"
+                placeholder="Your Name"
+                required
+              />
             </div>
             <div>
               <label for="name"> Email</label>
-              <input name="Email" id="email" type="text" required />
+              <input
+                name="Email"
+                id="email"
+                type="text"
+                placeholder="YourEmail@Gmail.com"
+                required
+              />
             </div>
             <div>
               <label for="email">Message</label>
-              <input name="Message" id="message" type="text" required />
+              <input
+                name="Message"
+                id="message"
+                type="text"
+                placeholder="How can I help?"
+                required
+              />
             </div>
             <div>
               <input type="submit" value="Reach Out" />
