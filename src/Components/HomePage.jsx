@@ -2,7 +2,6 @@ import React from "react";
 import "./HomePage.css";
 import Header from "./Header&Footer/Header";
 import Footer from "./Header&Footer/Footer";
-import PriceCard from "./PriceCard";
 
 export default function HomePage() {
   return (
