@@ -2,6 +2,7 @@ import React from "react";
 import "./HomePage.css";
 import Header from "./Header&Footer/Header";
 import Footer from "./Header&Footer/Footer";
+import PriceCard from "./PriceCard";
 
 export default function HomePage() {
   return (
@@ -11,7 +12,7 @@ export default function HomePage() {
           <Header />
         </div>
         <div className="title">
-          <h1>Hom Page</h1>
+          <h1>hello</h1>
         </div>
         <div className="footer-container">
           <Footer />
