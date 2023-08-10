@@ -1,7 +1,6 @@
 import React from "react";
 import "./HomePage.css";
 import Header from "./Header&Footer/Header";
-import Footer from "./Header&Footer/Footer";
 import PriceCard from "./components/PriceCard";
 
 export default function HomePage() {
@@ -16,9 +15,7 @@ export default function HomePage() {
             <PriceCard />
           </h1>
         </div>
-        <div className="footer-container">
-          <Footer />
-        </div>
+        <div className="footer-container"></div>
       </div>
     </div>
   );

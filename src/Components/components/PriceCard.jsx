@@ -27,21 +27,25 @@ const packages = [
 const PriceCard = () => {
   return (
     <>
-      <div className="pricing-header">
-        <h1 className="pricing-title">Pricing</h1>
-      </div>
-      <div className="pricing-container">
-        {packages.map((pkg, index) => (
-          <div className="package" key={index}>
-            <h2 className="package-title">{pkg.title}</h2>
-            <div className="package-price">{pkg.price}</div>
-            <ul className="package-features">
-              {pkg.features.map((feature, index) => (
-                <li key={index}>{feature}</li>
-              ))}
-            </ul>
+      <div className="pricing-megaload">
+        <div className="pricing-box">
+          <div className="pricing-header">
+            <h1 className="pricing-title">Pricing</h1>
           </div>
-        ))}
+          <div className="pricing-container">
+            {packages.map((pkg, index) => (
+              <div className="package" key={index}>
+                <h2 className="package-title">{pkg.title}</h2>
+                <div className="package-price">{pkg.price}</div>
+                <ul className="package-features">
+                  {pkg.features.map((feature, index) => (
+                    <li key={index}>{feature}</li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </div>
       </div>
     </>
   );
