@@ -9,9 +9,9 @@ export default function About() {
     <div className="about-background">
       <Header />
       <div className="container">
-        <div className="cloud-background">
-          <Clouds />
-        </div>
+        <div></div>
+        <div className="cloud-background"></div>
+        <Clouds />
       </div>
     </div>
   );
