@@ -61,7 +61,6 @@ export default function Contact() {
                     tabIndex="-1"
                     autoComplete="off"
                   />
-                  <div></div>
                 </div>
               </div>
             </form>
