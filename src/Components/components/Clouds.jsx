@@ -24,11 +24,7 @@ export default function Clouds() {
       top: randomPosition.y + "px",
     };
 
-    return (
-      <div className="giant-cloud" style={cloudStyle} key={index}>
-        {/* Cloud content */}
-      </div>
-    );
+    return <div className="giant-cloud" style={cloudStyle} key={index}></div>;
   });
 
   return (
