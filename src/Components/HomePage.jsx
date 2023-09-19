@@ -10,8 +10,8 @@ export default function HomePage() {
         <div className="header-container">
           <Header />
         </div>
-        <div className="title">
-          <h1>
+        <div className="home-container">
+          <h1 className="price-card-boxes">
             <PriceCard />
           </h1>
         </div>

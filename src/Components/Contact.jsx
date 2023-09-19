@@ -62,6 +62,13 @@ export default function Contact() {
                     autoComplete="off"
                   />
                 </div>
+                <div className="disclaimer-container">
+                  <p className="disclaimer-text">
+                    This is a two-line disclaimer.
+                    <br />
+                    Please read it carefully ya hoe.
+                  </p>
+                </div>
               </div>
             </form>
           </div>
