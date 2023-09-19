@@ -38,7 +38,7 @@
 /* Media Query for Layout */
 @media (max-width: 768px) {
   .pricing-container {
-    flex-direction: column;
+    flex-direction: column; /* Change to column layout for smaller screens */
     align-items: center;
   }
 }
