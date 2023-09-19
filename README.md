@@ -18,7 +18,7 @@ We highly recommend Keely for birthing women and families. Know that when you br
 
 With deepest appreciation,
 
-Erica, Ken, and baby Octavio :)
+Erica, Ken, and baby Octavio :
 
 ## Site Description / Purpose
 
