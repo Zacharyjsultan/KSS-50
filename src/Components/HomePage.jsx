@@ -12,6 +12,7 @@ export default function HomePage() {
         </div>
         <div className="home-container">
           <h1 className="price-card-boxes">
+            <img className="logo" src="/keelylogo.png" alt="Keely Logo" />
             <PriceCard />
           </h1>
         </div>

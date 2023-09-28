@@ -21,6 +21,7 @@ export default function About() {
                   nec purus feugiat, bibendum quam a, ultrices odio. Praesent
                   bibendum malesuada aliquet.
                 </p>
+                <img className="logo-2" src="/keelylogo.png" alt="Keely Logo" />
               </div>
               <div className="about-right">
                 <div className="trainings-section">
