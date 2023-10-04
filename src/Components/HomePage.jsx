@@ -10,8 +10,9 @@ export default function HomePage() {
         <div className="header-container">
           <Header />
         </div>
-        <div className="title">
-          <h1>
+        <div className="home-container">
+          <h1 className="price-card-boxes">
+            <img className="logo" src="/keelylogo.png" alt="Keely Logo" />
             <PriceCard />
           </h1>
         </div>

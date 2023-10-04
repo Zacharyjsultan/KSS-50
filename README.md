@@ -4,6 +4,29 @@ MIRO Board
 
 https://miro.com/app/board/uXjVMt9r-sg=/
 
+## testimonials
+
+Being new parents comes with a lot of responsibility, anxiety and unknowns. Having Keely be at our sides throughout the birth process was everything our little family needed.
+
+Keely was thoughtful, informative professional and intentional in how she worked with us leading up to our son’s birth, and amazing the day of. She was calm, cool and collected as she worked with both mom and dad along with the hospital staff throughout our entire birth experience. It was both an intense yet magical experience made better with Keely’s guidance and support. We would highly recommend working with Keely as your birth doula.
+
+Keely has a gentle and intuitive approach to this energy work. Her feedback has helped me feel more grounded and more certain in what my body needs.
+-Kelly
+
+Before speaking with Keely, I was reticent about Reiki. I have anxiety and ADHD and it is very difficult for me to just relax. I had practiced yoga, meditation, and many other forms of mindfulness to no avail - so why would Reiki be any different? But from the start, Keely made me feel so comfortable with the entire process and helped me get into a headspace where I could actually experience the calming benefits. For the first time in my life, I was able to truly be mindful - and it is because of Keely's expertise in her practice as well as her comforting and positive presence. I've also experienced physical health issues recently that have made it very important for me to establish a stronger and more accurate mind/body connection. Knowing this need, Keely has been able to focus our sessions around that connection. I am healing both physically and emotionally from the trauma of my injuries, and no small part of that is the work that Keely has been doing with me. I cannot recommend her and her services enough.
+
+- Michaela
+
+Israel, Lauren and Sauvie
+
+Keely changed the course of our pregnancy towards an experience of trust and confidence. We are eternally grateful to her for being a source of care and wisdom throughout the pregnancy and beyond. Keely has a beautiful quality about her that allows her to care for subtle needs that have big reverberations in the pregnancy journey. For us, she was a doula to the birth of our son but also to the birth of an entirely new phase of life for our entire family. Because she provided so much acknowledgement of our individual transformations and because she made us aware of needs we couldn't have anticipated (such as deep care for our transformations in marriage as well as specific birthing preferences), we were then able to experience what we now understand as a truly perfect birthing process. Though many things did not go exactly as we had anticipated, it was Keely's support that allowed us to trust the process and know that we were in good hands with her by our side.
+
+We highly recommend Keely for birthing women and families. Know that when you bring Keely into the process you will experience care on deep personal levels and coordinated/practical levels that enrich and strengthen the birthing process.
+
+With deepest appreciation,
+
+Erica, Ken, and baby Octavio :
+
 ## Site Description / Purpose
 
 Describe your business in a few sentences
