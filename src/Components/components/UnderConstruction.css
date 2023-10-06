@@ -1,0 +1,46 @@
+.uc-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  position: relative; /* Add this */
+  background-color: #c0b5d4;
+  z-index: 1;
+}
+
+.uc-container::before {
+  content: ""; /* Create a pseudo-element for the background image */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("keelylogo.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  opacity: 0.5; /* Adjust opacity as needed to make text more readable */
+  z-index: -1; /* Send the background image to the back */
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  position: relative; /* Add this to position h1 relative to its parent */
+  z-index: 2; /* Ensure h1 is on top of the background image */
+}
+
+p {
+  font-size: 38px;
+  color: #555;
+  position: relative; /* Add this to position p relative to its parent */
+  z-index: 2; /* Ensure p is on top of the background image */
+}
+
+.emailme {
+  font-size: 20px;
+  cursor: pointer;
+}
