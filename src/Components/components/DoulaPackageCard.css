@@ -1,0 +1,38 @@
+.doula-package {
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 250px;
+  margin: 10px;
+}
+
+.doula-package-title {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #333; /* Text color */
+}
+
+.doula-package-price {
+  font-size: 1.2rem;
+  margin-bottom: 15px;
+  color: #0077b6; /* Price color */
+}
+
+.doula-package-features {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.doula-package-features li {
+  margin-bottom: 5px;
+}
+
+/* Media Query for Layout */
+@media (max-width: 768px) {
+  .doula-package {
+    width: 100%; /* Full width for smaller screens */
+  }
+}
