@@ -3,7 +3,7 @@
   align-items: center;
   justify-content: center;
   background-color: #ffc794;
-  height: 100vh;
+  height: 200vh;
   width: 100vw;
 }
 
@@ -19,4 +19,26 @@
   justify-content: center;
   width: 30vw;
   height: 30vh;
+}
+
+.home-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #f5f5f5;
+  border-radius: 5%;
+  box-shadow: 2% 4% 2% rgba(0, 0, 0, 0.1);
+  width: 73%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 2%;
+  overflow-y: auto; /* Allow content to scroll when needed */
+  margin-top: 30vh;
+}
+.package-container {
+  margin-top: 3vh;
 }

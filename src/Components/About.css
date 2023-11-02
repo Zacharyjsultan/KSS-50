@@ -14,6 +14,7 @@
   width: 100%;
   display: flex;
   flex-direction: column; /* Ensure content stacks vertically */
+  margin-top: 5vh;
 }
 
 .giant-cloud {
