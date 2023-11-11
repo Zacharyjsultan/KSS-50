@@ -14,9 +14,13 @@ export default function About() {
             <h1 className="about-title">About Me</h1>
             <div className="about-content">
               <div className="about-left">
-                {/* Image can be added here */}
-                <h1 className="about-name">Image</h1>
-                <p className="about-paragraph">
+                <img
+                  className="about-image"
+                  src={process.env.PUBLIC_URL + "/1keely1.jpeg"}
+                  alt="Keely"
+                />
+
+                <div className="about-paragraph">
                   <p>
                     I'm originally from Rhode Island and have called Oregon home
                     for the past 6 years. Over the last 8 years, I've worked
@@ -64,7 +68,7 @@ export default function About() {
                     guiding me in helping others recognize and embrace their
                     inner capacity and innate divinity.
                   </p>
-                </p>
+                </div>
               </div>
 
               <div className="about-right">
