@@ -3,6 +3,7 @@
   height: auto;
   width: 100vw;
   display: flex;
+  font-family: "Judson", serif;
   justify-content: center;
   align-items: center;
   padding-bottom: 10vh; /* Add padding below the background */

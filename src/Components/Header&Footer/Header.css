@@ -3,10 +3,10 @@
   justify-content: space-around;
   align-items: center;
   width: 100%;
-
-  background-color: #b7a9cd;
+  margin: 0;
+  background-color: #bddcd3;
   color: FFFFFF;
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: 600;
   height: 70px;
   position: fixed;
@@ -17,6 +17,8 @@
   border-radius: 5%;
 }
 .logo-3 {
+  display: flex;
+  margin-top: 0.8vh;
   width: 7vw; /* Adjust the width as needed */
   height: 8vh; /* Adjust the height as needed */
 }

@@ -16,6 +16,7 @@
 
 .doula-package-price {
   font-size: 1.2rem;
+
   margin-bottom: 15px;
   color: #0077b6; /* Price color */
 }
@@ -35,4 +36,9 @@
   .doula-package {
     width: 100%; /* Full width for smaller screens */
   }
+}
+
+h1,
+h2 {
+  font-family: "Archivo Black", sans-serif;
 }
