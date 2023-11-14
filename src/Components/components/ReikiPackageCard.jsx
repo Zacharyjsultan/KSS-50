@@ -6,15 +6,11 @@ const ReikiPackageCard = () => {
     title: "Reiki Package",
     prices: [
       {
-        price: "$39.99/month",
-        features: ["Feature 1", "Feature 2", "Feature 3"],
+        price: "$85.00/hour",
+        features: ["Sound bath", "Oil Diffusion", "Tailored sessions"],
       },
       {
-        price: "$49.99/month",
-        features: ["Feature 1", "Feature 2", "Feature 3", "Feature 4"],
-      },
-      {
-        price: "$59.99/month",
+        price: "$59.99/hour",
         features: [
           "Feature 1",
           "Feature 2",

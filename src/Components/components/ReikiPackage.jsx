@@ -19,10 +19,15 @@ const ReikiPackage = () => {
         do in life makes an imprint on us and our bodies store that energy. It's
         my job to locate that stuck energy and intend Reiki. All healing is self
         healing, therefore I am a vessel for the energy to flow but your
-        intention and willingness to receive does the healing.{" "}
+        intention and willingness to receive does the healing.
+      </p>
+      <p>
+        Nothing is required of you for Reiki, just your willingness to receive.
+        Therefore I need your consent. We can conduct the session in whatever
+        way is most comfortable and safe for you.{" "}
       </p>
       <div className="review">
-        <h3>Client Review</h3>
+        <h3>Client Reviews</h3>
         <p>
           Before speaking with Keely, I was reticent about Reiki. I have anxiety
           and ADHD and it is very difficult for me to just relax. I had

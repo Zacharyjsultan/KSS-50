@@ -13,7 +13,7 @@ export default function Contact() {
             <form
               action="https://public.herotofu.com/v1/b45438b0-2594-11ee-8058-515da3888232"
               method="post"
-              accept-charset="UTF-8"
+              acceptCharset="UTF-8"
             >
               <div>
                 <label htmlFor="name">Name</label>
