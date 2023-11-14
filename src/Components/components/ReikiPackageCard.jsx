@@ -3,21 +3,11 @@ import "./ReikiPackageCard.css";
 
 const ReikiPackageCard = () => {
   const reikiPackage = {
-    title: "Reiki Package",
+    title: "Reiki",
     prices: [
       {
         price: "$85.00/hour",
         features: ["Sound bath", "Oil Diffusion", "Tailored sessions"],
-      },
-      {
-        price: "$59.99/hour",
-        features: [
-          "Feature 1",
-          "Feature 2",
-          "Feature 3",
-          "Feature 4",
-          "Feature 5",
-        ],
       },
     ],
   };
