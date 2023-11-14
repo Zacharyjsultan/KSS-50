@@ -5,7 +5,12 @@ const DoulaPackage = () => {
   return (
     <div className="package-container">
       <h2>Doula Package</h2>
-      <p>Background of the Doula modality goes here.</p>
+      <p>
+        A birth doula is a trained professional that provides continuous
+        emotional, physical and informational support during the perinatal
+        period. As your doula I work for you and your partner, supporting
+        whatever you decide for your birth experience.{" "}
+      </p>
       <div className="review">
         <h3>Client Review</h3>
         <p>

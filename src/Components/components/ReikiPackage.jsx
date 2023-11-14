@@ -5,7 +5,22 @@ const ReikiPackage = () => {
   return (
     <div className="package-container">
       <h2>Reiki Package</h2>
-      <p>Background of the Reiki modality goes here.</p>
+      <p>
+        I am trained in the Usui Shiki Ryoho method of Reiki. This is the
+        traditional Japanese, hands on energy healing practice formalized by
+        Japan in the 1900s by Mikao Usui. Rei Ki means universal life force
+        energy. It is the equivalent to Prana in Sanskrit and Qi or Chi in
+        Chinese Medicine. It is the energy that makes up who we are and connects
+        all living things. The practice of Reiki is a gentle, hands-on technique
+        that can remove energetic blocks or stuck energy, and can restore
+        balanced energy in the body which helps with overall healing and
+        wellness. People seek Reiki when they feel misaligned or stuck in some
+        way, whether that be physically, mentally or emotionally. Everything we
+        do in life makes an imprint on us and our bodies store that energy. It's
+        my job to locate that stuck energy and intend Reiki. All healing is self
+        healing, therefore I am a vessel for the energy to flow but your
+        intention and willingness to receive does the healing.{" "}
+      </p>
       <div className="review">
         <h3>Client Review</h3>
         <p>
