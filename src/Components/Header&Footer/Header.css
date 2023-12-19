@@ -8,17 +8,17 @@
   color: FFFFFF;
   font-size: 1.2rem;
   font-weight: 600;
-  height: 70px;
+  height: 7vh;
   position: fixed;
   top: 0;
   z-index: 100;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  margin: 2vh;
+  margin: 1.5vh;
   border-radius: 5%;
 }
 .logo-3 {
   display: flex;
   margin-top: 0.8vh;
-  width: 7vw; /* Adjust the width as needed */
+  width: 7.3vw; /* Adjust the width as needed */
   height: 8vh; /* Adjust the height as needed */
 }

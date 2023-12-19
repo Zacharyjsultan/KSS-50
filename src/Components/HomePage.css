@@ -41,7 +41,16 @@
   padding: 2%;
   overflow-y: auto; /* Allow content to scroll when needed */
   margin-top: 30vh;
+  padding-top: auto;
+  padding-bottom: auto;
 }
-.package-container {
+/* .package-container {
   margin-top: 3vh;
+} */
+
+.package-boxes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }
