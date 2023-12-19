@@ -39,14 +39,11 @@
   justify-content: center;
   text-align: center;
   padding: 2%;
-  overflow-y: auto; /* Allow content to scroll when needed */
+  overflow-y: auto;
   margin-top: 30vh;
   padding-top: auto;
   padding-bottom: auto;
 }
-/* .package-container {
-  margin-top: 3vh;
-} */
 
 .package-boxes {
   display: flex;

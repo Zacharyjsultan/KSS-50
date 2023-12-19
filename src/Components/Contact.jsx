@@ -1,6 +1,7 @@
 import React from "react";
 import "./Contact.css";
 import Header from "./Header&Footer/Header";
+import { Link } from "react-router-dom";
 
 export default function Contact() {
   return (
@@ -16,7 +17,9 @@ export default function Contact() {
               acceptCharset="UTF-8"
             >
               <div>
-                <label htmlFor="name">Name</label>
+                <label className="entry-titles" htmlFor="name">
+                  Name
+                </label>
                 <input
                   name="Name"
                   id="name"
@@ -26,7 +29,9 @@ export default function Contact() {
                 />
               </div>
               <div>
-                <label htmlFor="email">Email</label>
+                <label className="entry-titles" htmlFor="email">
+                  Email
+                </label>
                 <input
                   name="Email"
                   id="email"
@@ -36,10 +41,12 @@ export default function Contact() {
                 />
               </div>
               <div>
-                <label htmlFor="message">Message</label>
+                <label className="entry-titles" htmlFor="message">
+                  Message
+                </label>
                 <textarea
                   name="Message"
-                  id="message"
+                  className="message"
                   placeholder="How can I help?"
                   required
                 ></textarea>
@@ -62,11 +69,23 @@ export default function Contact() {
                     autoComplete="off"
                   />
                 </div>
+
+                <div className="calendly-link">
+                  <Link to="https://calendly.com/keelyshea/reiki-session-1-hour">
+                    <img
+                      src="/path/to/your/logo.png"
+                      alt="Logo"
+                      width="100"
+                      height="50"
+                    />
+                  </Link>
+                </div>
                 <div className="disclaimer-container">
                   <p className="disclaimer-text">
-                    This is a two-line disclaimer.
+                    COVID-19 Update: Prioritizing your safety, please reschedule
+                    if you've had symptoms or contact with a positive case.
                     <br />
-                    Please read it carefully ya hoe.
+                    Your well-being matters. Thank you for understanding.
                   </p>
                 </div>
               </div>

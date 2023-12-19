@@ -1,5 +1,6 @@
 import React from "react";
 import ReikiPackageCard from "./ReikiPackageCard";
+import { Link } from "react-router-dom";
 
 const ReikiPackage = () => {
   return (
@@ -53,6 +54,16 @@ const ReikiPackage = () => {
         </p>
       </div>
       <ReikiPackageCard />
+      <div className="social-links">
+        <Link to="https://calendly.com/keelyshea/reiki-session-1-hour">
+          <img
+            src="/path/to/your/logo.png"
+            alt="Logo"
+            width="100"
+            height="50"
+          />
+        </Link>
+      </div>
     </div>
   );
 };

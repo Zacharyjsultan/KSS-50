@@ -16,7 +16,7 @@ export default function About() {
               <div className="about-left">
                 <img
                   className="about-image"
-                  src={process.env.PUBLIC_URL + "/1keely1.jpeg"}
+                  src={process.env.PUBLIC_URL + "/2keely2.jpeg"}
                   alt="Keely"
                 />
 

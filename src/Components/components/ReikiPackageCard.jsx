@@ -11,7 +11,7 @@ const ReikiPackageCard = () => {
         price: "$85.00/hour",
         description:
           "Indulge in a relaxing experience with a sound bath, oil diffusion, and personalized sessions.",
-        features: ["Sound bath", "Oil Diffusion", "Tailored sessions"],
+        features: [],
       },
     ],
   };
