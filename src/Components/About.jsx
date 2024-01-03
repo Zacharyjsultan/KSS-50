@@ -80,11 +80,9 @@ export default function About() {
               </div>
 
               <div className="about-right">
+                <h2 className="trainings-title">Trainings & Certifications</h2>
                 <img className="logo-2" src="/keelylogo.png" alt="Keely Logo" />
                 <div className="trainings-section">
-                  <h2 className="trainings-title">
-                    Trainings & Certifications
-                  </h2>
                   <ul className="training-list">
                     <li className="training-item">Reiki Master</li>
                     <li className="training-item">Dona certified</li>
