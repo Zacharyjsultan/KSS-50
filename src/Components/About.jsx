@@ -95,12 +95,45 @@ export default function About() {
                 <div className="education-section">
                   <h2 className="education-title">Education</h2>
                   <ul className="education-list">
-                    <li className="education-item">
-                      Bachelor's in Computer Science
+                    <li>Bachelor's in Computer Science</li>
+                    <li>Birth Doula Training- Mother Tree Birth</li>
+                    <li>DONA International Certification</li>
+                    <li>
+                      Trauma Informed Care for Birth Professionals- Mother Tree
+                      Birth
                     </li>
-                    <li className="education-item">
-                      Master's in Web Development
+                    <li>Spinning Babies workshop</li>
+                    <li>Traditional Health Worker Certification</li>
+                    <li>
+                      Cultural Competency and Linguistically Appropriate
+                      Services (CLAS) in Maternal Health Care
                     </li>
+                    <li>
+                      Interprofessional Collaborative Practice & Advanced
+                      Training for Doulas
+                    </li>
+                    <li>Adult/Child/Infant First Aid and CPR</li>
+                    <li>
+                      The Integrative Somatic Trauma Therapy Certificate
+                      Program- Embody Lab
+                    </li>
+                    <li>
+                      Subtle Hands-On Skills Craniosacral Training- Carol Gray
+                    </li>
+                    <li>
+                      Reiki for Birth Workers, Reiki I Certification- Mitra
+                      Sessions
+                    </li>
+                    <li>Reiki II Certification- Mitra Sessions</li>
+                    <li>Reiki III Certification- Elizabeth Marshall</li>
+                    <li>
+                      Reiki Master Trainer Certification- Elizabeth Marshall
+                    </li>
+                    <li>
+                      Energy Healing for Perinatal Anxiety -Mitra Sessions
+                    </li>
+                    <li>The Energetics of Birth workshop -Mitra Sessions</li>
+                    <li>Master's in Web Development</li>
                     {/* Add more education items as needed */}
                   </ul>
                 </div>
