@@ -6,7 +6,7 @@
   font-family: "Judson", serif;
   justify-content: center;
   align-items: center;
-  padding-bottom: 10vh; /* Add padding below the background */
+  padding-bottom: 10vh;
 }
 
 .container {
@@ -15,7 +15,7 @@
   width: 100%;
   display: flex;
   flex-direction: column; /* Ensure content stacks vertically */
-  margin-top: 15vh;
+  margin-top: 16vh;
 }
 
 .giant-cloud {
@@ -160,4 +160,8 @@
   align-items: center;
   justify-content: center;
   width: 20vw;
+}
+
+.about-title {
+  margin-top: 10vh;
 }
