@@ -22,51 +22,59 @@ export default function About() {
 
                 <div className="about-paragraph">
                   <p>
-                    I'm originally from Rhode Island and have called Oregon home
-                    for the past 6 years. Over the last 8 years, I've worked
-                    closely with young individuals and teens with developmental
-                    disabilities, beginning as a paraeducator in the PPS school
-                    system just as the pandemic struck. The shutdown provided an
-                    opportunity for me to reflect on my life and future goals.
-                    My curiosity about doulas, which began during my women's
-                    studies, led me to undertake virtual birth doula training
-                    with Jesse Remer at Mother Tree Birth in Portland. Pursuing
-                    certification with Dona International, I balanced this with
-                    my work in special education, dedicating time to absorb
-                    knowledge on birth and family support.
+                    I’m originally from Rhode Island but have called Oregon home
+                    for the past 7 years. Over the last 9 years, I've been
+                    primarily working one-on-one with young kids and teens with
+                    developmental disabilities. I was starting my first year as
+                    a paraeducator when the pandemic hit. The shutdown was an
+                    opportunity for me to evaluate my life and future goals. My
+                    curiosity about doulas, which began during my women’s
+                    studies many years prior, led me to enroll in a virtual
+                    birth doula training with Jesse Remer at Mother Tree Birth
+                    in Portland. I pursued birth doula certification with Dona
+                    International, while balancing my work in special education.
+                    I dedicated my time absorbing knowledge about birth and
+                    family support.
                   </p>
                   <p>
-                    After my doula training, I discovered Reiki, thanks to a
-                    virtual course named 'Reiki for Birth Workers' hosted by
-                    Reiki Master Mitra Sessions from Venice Holistic Energy
-                    Healing in England. I was deeply impressed by Reiki's
-                    positive impact on my nervous system. Living with CPTSD, I
-                    realized it could benefit birthers and their families. I
-                    completed Reiki II with Mitra and continued my Reiki III and
-                    Reiki Master training a couple of years later with Elizabeth
-                    Marshall from Rise Wellness in Portland, Oregon.
+                    About a year after my doula training, I learned about the
+                    Japanese energy healing practice of Reiki. I found a virtual
+                    training called "Reiki for Birth Workers," hosted by Reiki
+                    Master Mitra Sessions from Venice Holistic Energy Healing in
+                    England. As someone living with CPTSD, I noticed Reiki
+                    making a positive impact on my nervous system. Reiki allowed
+                    me to really be with myself and get in touch with my deeper
+                    intuition. I knew if my Reiki practice could do that for me,
+                    it could benefit birthers during the perinatal period. I
+                    completed Reiki II with Mitra and continued my Reiki III
+                    course and Reiki Master training a couple years later with
+                    Elizabeth Marshall from Reiki Uprising in Portland, Oregon.
                   </p>
                   <p>
-                    For the past couple of years, I've volunteered as a birth
-                    doula with the Gateway Doula group in Portland, connecting
-                    me with numerous clients. This experience has allowed me to
-                    learn and grow as a birth worker. I also dedicated a summer
-                    to volunteering with the Cascades Abortion Support
-                    Collective, where I assisted individuals and families
-                    seeking abortion care following Roe v. Wade's overturning.
-                    As a birth worker, I'm committed to advocating for
-                    reproductive justice.
+                    For the past couple of years, I have been volunteering as a
+                    birth doula with the Gateway Doula group in Portland, which
+                    connected me with several clients. I have been privileged to
+                    learn and grow as a birth worker with these families. I also
+                    volunteered with the Cascades Abortion Support Collective
+                    where I assisted those seeking abortion care after Roe v.
+                    Wade was overturned. As a birth worker, I’m committed to
+                    advocating for reproductive justice.
                   </p>
                   <p>
                     I believe in the importance of continuous self-improvement
-                    as it directly impacts the care I provide as a birth doula
-                    and Reiki practitioner. While I'm often asked how I entered
-                    this field without being a mother or growing up in a
-                    household that discussed birth or energy healing, my work as
-                    a caregiver and educator has honed my strong advocacy
-                    skills. Advocacy and empowerment lie at the core of my work,
-                    guiding me in helping others recognize and embrace their
-                    inner capacity and innate divinity.
+                    and healing as it directly impacts the care I provide as a
+                    doula and Reiki practitioner. I seek ongoing personal and
+                    collective healing through various somatic and mindfulness
+                    based practices, Chinese medicine, energy healing and
+                    Internal Family Systems therapy.
+                  </p>
+                  <p>
+                    I am often asked how I ended up in birth and energy work. My
+                    time as a caregiver and educator with kids and families
+                    throughout the years, led me to this field. Advocacy and
+                    empowerment lie at the heart of my work. Helping others
+                    recognize and embrace their inner capacity and deeper wisdom
+                    is my passion and purpose.
                   </p>
                 </div>
               </div>
