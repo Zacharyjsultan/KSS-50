@@ -5,14 +5,16 @@ const DoulaPackage = () => {
   return (
     <div className="package-container">
       <h2>Doula Package</h2>
+      <DoulaPackageCard />
       <p>
         A birth doula is a trained professional that provides continuous
         emotional, physical and informational support during the perinatal
         period. As your doula I work for you and your partner, supporting
         whatever you decide for your birth experience.{" "}
       </p>
+      <hr />
       <div className="review">
-        <h3>Client Review</h3>
+        <h3>Doula Reviews</h3>
         <p>
           Being new parents comes with a lot of responsibility, anxiety and
           unknowns. Having Keely be at our sides throughout the birth process
@@ -47,7 +49,6 @@ const DoulaPackage = () => {
           Erica, Ken, and baby Octavio :
         </p>
       </div>
-      <DoulaPackageCard />
     </div>
   );
 };

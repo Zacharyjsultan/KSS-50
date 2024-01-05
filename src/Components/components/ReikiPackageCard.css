@@ -36,3 +36,9 @@
     width: 100%; /* Full width for smaller screens */
   }
 }
+
+.package-title {
+  font-size: 0rem;
+  margin-bottom: 10px;
+  color: #333; /* Text color */
+}

@@ -6,29 +6,38 @@ const ReikiPackage = () => {
   return (
     <div className="package-container">
       <h2>Reiki Package</h2>
+      <ReikiPackageCard />
       <p>
         I am trained in the Usui Shiki Ryoho method of Reiki. This is the
         traditional Japanese, hands on energy healing practice formalized by
         Japan in the 1900s by Mikao Usui. Rei Ki means universal life force
         energy. It is the equivalent to Prana in Sanskrit and Qi or Chi in
         Chinese Medicine. It is the energy that makes up who we are and connects
-        all living things. The practice of Reiki is a gentle, hands-on technique
-        that can remove energetic blocks or stuck energy, and can restore
-        balanced energy in the body which helps with overall healing and
-        wellness. People seek Reiki when they feel misaligned or stuck in some
-        way, whether that be physically, mentally or emotionally. Everything we
-        do in life makes an imprint on us and our bodies store that energy. It's
-        my job to locate that stuck energy and intend Reiki. All healing is self
-        healing, therefore I am a vessel for the energy to flow but your
-        intention and willingness to receive does the healing.
+        all living things.
       </p>
       <p>
-        Nothing is required of you for Reiki, just your willingness to receive.
-        Therefore I need your consent. We can conduct the session in whatever
-        way is most comfortable and safe for you.{" "}
+        The practice of Reiki involves channeling life force energy to remove
+        energetic blocks or stuck energy in the recipient, and restores balanced
+        energy for overall health and wellness. Energy imbalances can affect
+        one’s physical, emotional and mental health. Therefore, one can seek
+        treatment for any kind of ailment or trauma.
       </p>
+      <hr />
+      <h3>What to expect</h3>
+      <p>
+        When receiving Reiki, people report feeling a floating sensation,
+        tingling, heat or lightness. Most often people experience overall
+        relaxation and ease from the treatment. Other effects may be an increase
+        in energy or fatigue. Sometimes one can experience an emotional release.
+        It is important to note energy healing varies from person to person.
+      </p>
+      <p>
+        Reiki is not a supplement for other medical or therapeutic treatments.
+        Reiki should be utilized as a complementary therapy.
+      </p>
+      <hr />
       <div className="review">
-        <h3>Client Reviews</h3>
+        <h3>Reiki Reviews</h3>
         <p>
           Before speaking with Keely, I was reticent about Reiki. I have anxiety
           and ADHD and it is very difficult for me to just relax. I had
@@ -53,7 +62,7 @@ const ReikiPackage = () => {
           body needs. -Kelly
         </p>
       </div>
-      <ReikiPackageCard />
+
       <div className="social-links">
         <Link to="https://calendly.com/keelyshea/reiki-session-1-hour">
           <img

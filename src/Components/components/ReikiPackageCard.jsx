@@ -8,10 +8,10 @@ const ReikiPackageCard = () => {
       "Experience the healing power of Reiki with our tailored sessions.",
     prices: [
       {
-        price: "$85.00/hour",
+        price: "$60.00 - $85.00/hour",
         description:
           "Indulge in a relaxing experience with a sound bath, oil diffusion, and personalized sessions.",
-        features: [],
+        features: ["Fridge and Friends - every Tuesday"],
       },
     ],
   };
@@ -26,7 +26,10 @@ const ReikiPackageCard = () => {
           <p className="package-description">{price.description}</p>
           <ul className="package-features">
             {price.features.map((feature, featureIndex) => (
-              <li key={featureIndex}>{feature}</li>
+              <>
+                <div key={featureIndex}>{feature}</div>
+                <hr />
+              </>
             ))}
           </ul>
         </div>
