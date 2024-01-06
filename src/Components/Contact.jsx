@@ -73,8 +73,9 @@ export default function Contact() {
                 <div className="calendly-link">
                   <Link to="https://calendly.com/keelyshea/reiki-session-1-hour">
                     <img
-                      src="/path/to/your/logo.png"
+                      src="/keelylogo.png"
                       alt="Logo"
+                      className="calendly-logo"
                       width="100"
                       height="50"
                     />

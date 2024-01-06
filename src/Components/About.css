@@ -59,7 +59,7 @@
   z-index: 2;
   background-color: #f5f5f5;
   border-radius: 5%; /* Use percentage for border radius */
-  box-shadow: 2% 4% 2% rgba(0, 0, 0, 0.1); /* Use percentage for box shadow */
+  box-shadow: 0 10px 20px rgba(0, 3, 0, 1.8);
   width: 73%; /* Use percentage for width */
   min-height: 70vh; /* Set a minimum height */
   max-width: 91vw; /* Use a combination of percentage and max-width */

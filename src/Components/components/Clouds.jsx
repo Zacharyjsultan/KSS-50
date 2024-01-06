@@ -3,13 +3,13 @@ import "./Clouds.css";
 import Header from "../Header&Footer/Header";
 
 export default function Clouds() {
-  const numClouds = 200; // Adjust the number of clouds as needed
+  const numClouds = 50; // Adjust the number of clouds as needed
 
   const getRandomPosition = () => {
     const windowHeight = window.innerHeight;
     const windowWidth = window.innerWidth;
-    const cloudHeight = 90;
-    const cloudWidth = 160;
+    const cloudHeight = 120; // Adjusted height of the cloud
+    const cloudWidth = 240; // Adjusted width of the cloud
 
     const randomX = Math.floor(Math.random() * (windowWidth - cloudWidth));
     const randomY = Math.floor(Math.random() * (windowHeight - cloudHeight));

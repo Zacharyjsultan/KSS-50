@@ -5,7 +5,7 @@ const DoulaPackageCard = () => {
   const doulaPackage = {
     name: "Standard Doula Package",
     description:
-      "Our standard doula package includes personalized support for a positive birthing experience.",
+      "A birth doula is a trained birth professional that provides continuous emotional, physical and informational support during the perinatal period. As your doula I work for you and your partner, supporting whatever you decide for your birth experience.",
     prices: [
       {
         title: "Standard Doula Package",

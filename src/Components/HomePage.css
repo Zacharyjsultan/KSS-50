@@ -43,6 +43,7 @@
   margin-top: 30vh;
   padding-top: auto;
   padding-bottom: auto;
+  box-shadow: 0 10px 20px rgba(0, 3, 0, 1.8);
 }
 
 .package-boxes {
