@@ -14,6 +14,7 @@ export default function About() {
             <h1 className="about-title">About Me</h1>
             <div className="about-content">
               <div className="about-left">
+                <h3 className="about-name">Keely Shea</h3>
                 <img
                   className="about-image"
                   src={process.env.PUBLIC_URL + "/2keely2.jpeg"}
@@ -80,20 +81,23 @@ export default function About() {
               </div>
 
               <div className="about-right">
-                <h2 className="trainings-title">Trainings & Certifications</h2>
+                <h2 className="education-title">My Mission</h2>
                 <img className="logo-2" src="/keelylogo.png" alt="Keely Logo" />
-                <div className="trainings-section">
-                  <ul className="training-list">
-                    <li className="training-item">Reiki Master</li>
-                    <li className="training-item">Dona certified</li>
-                    <li className="training-item">TChungus</li>
-                    {/* Add more training items as needed */}
-                  </ul>
-                </div>
                 <div className="education-section">
-                  <h2 className="education-title">Education</h2>
-                  <ul className="education-list">
-                    <li>Bachelor's in Computer Science</li>
+                  <div>
+                    My mission is to provide holistic birth doula care that is
+                    person-centered, trauma informed and evidence based. I aim
+                    to provide a space and tools for all kinds of families and
+                    individuals to feel empowered by listening to their own
+                    intuitive wisdom and deeper knowing. I believe all healing
+                    is self healing, and you are the expert of your body. As a
+                    Reiki practitioner I am a witness, supporter and facilitator
+                    of your healing journey.
+                  </div>
+                </div>
+                <h2 className="trainings-title">Trainings & Certifications</h2>
+                <div className="trainings-section">
+                  <dl className="training-list">
                     <li>Birth Doula Training- Mother Tree Birth</li>
                     <li>DONA International Certification</li>
                     <li>
@@ -103,14 +107,14 @@ export default function About() {
                     <li>Spinning Babies workshop</li>
                     <li>Traditional Health Worker Certification</li>
                     <li>
-                      Cultural Competency and Linguistically Appropriate
-                      Services (CLAS) in Maternal Health Care
+                      Cultural Competency & Linguistically Appropriate Services
+                      (CLAS) Maternal Health Care
                     </li>
                     <li>
                       Interprofessional Collaborative Practice & Advanced
                       Training for Doulas
                     </li>
-                    <li>Adult/Child/Infant First Aid and CPR</li>
+                    <li>Adult/Child/Infant First Aid & CPR</li>
                     <li>
                       The Integrative Somatic Trauma Therapy Certificate
                       Program- Embody Lab
@@ -131,9 +135,8 @@ export default function About() {
                       Energy Healing for Perinatal Anxiety -Mitra Sessions
                     </li>
                     <li>The Energetics of Birth workshop -Mitra Sessions</li>
-                    <li>Master's in Web Development</li>
-                    {/* Add more education items as needed */}
-                  </ul>
+                    <li>Bachelor of Arts - Ithaca College </li>
+                  </dl>
                 </div>
               </div>
             </div>

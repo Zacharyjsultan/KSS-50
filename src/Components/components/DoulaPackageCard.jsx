@@ -5,13 +5,13 @@ const DoulaPackageCard = () => {
   const doulaPackage = {
     name: "Standard Doula Package",
     description:
-      "A birth doula is a trained birth professional that provides continuous emotional, physical and informational support during the perinatal period. As your doula I work for you and your partner, supporting whatever you decide for your birth experience.",
+      "A birth doula is a trained birth professional that provides continuous emotional, physical and informational support during the perinatal period. As your doula I work for you and your partner, supporting whatever you decide for your birth experience. Complentary consultation to see if we are a good fit. ",
     prices: [
       {
         title: "Standard Doula Package",
         price: "$1500.00/month",
         description:
-          "Comprehensive doula support with Feature 1, Feature 2, and Feature 3.",
+          "Can be paid in full or in two installments. First half due at hire and second half due at 36 weeks.Includes: 3 prenatal visits, continuous support during labor and birth & 2 postpartum follow ups ",
         features: ["Feature 1", "Feature 2", "Feature 3"],
       },
       {

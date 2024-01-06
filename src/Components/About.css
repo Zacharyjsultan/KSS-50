@@ -177,3 +177,9 @@
   align-items: center;
   justify-content: center;
 }
+
+.training-list li {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 1vh;
+}
