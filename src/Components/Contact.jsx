@@ -5,9 +5,9 @@ import { Link } from "react-router-dom";
 
 export default function Contact() {
   return (
-    <div>
+    <div className="contact-page">
       <Header />
-      <div className="contact-page">
+      <div>
         <div className="contact-title">
           <h1>Contact Me</h1>
           <div className="contact-form-container">

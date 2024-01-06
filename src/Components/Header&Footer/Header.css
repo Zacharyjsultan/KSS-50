@@ -14,10 +14,13 @@
   z-index: 100;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   margin: 1.5vh;
-  border-radius: 5%;
+  border-radius: 9%;
+  border: 2px solid black; /* Add a border */
+  box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.1);
 }
 .logo-3 {
   display: flex;
+  font-weight: 700;
   margin-top: 0.8vh;
   width: 7.3vw; /* Adjust the width as needed */
   height: 8vh; /* Adjust the height as needed */
