@@ -64,13 +64,10 @@ const ReikiPackage = () => {
       </div>
 
       <div className="social-links">
+        <h4 className="calendly-scheduler"> Schedule here</h4>
+        <div class="arrow"></div>
         <Link to="https://calendly.com/keelyshea/reiki-session-1-hour">
-          <img
-            src="/path/to/your/logo.png"
-            alt="Logo"
-            width="100"
-            height="50"
-          />
+          <img src="/Calendly.png" alt="Logo" width="180" height="130" />
         </Link>
       </div>
     </div>

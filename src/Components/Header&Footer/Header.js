@@ -14,7 +14,7 @@ export default function Header() {
           Pricing & Services
         </Link>
         <Link to="/contact" className="button-3">
-          Contact
+          Contact Me
         </Link>
       </div>
     </>

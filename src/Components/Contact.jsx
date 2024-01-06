@@ -9,7 +9,7 @@ export default function Contact() {
       <Header />
       <div>
         <div className="contact-title">
-          <h1>Contact Me</h1>
+          <h1>Let's Connect</h1>
           <div className="contact-form-container">
             <form
               action="https://public.herotofu.com/v1/b45438b0-2594-11ee-8058-515da3888232"

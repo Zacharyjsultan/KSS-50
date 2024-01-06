@@ -15,7 +15,6 @@ export default function HomePage() {
           <ReikiPackage />
         </div>
       </div>
-      <div className="footer-container"></div>
     </div>
   );
 }
