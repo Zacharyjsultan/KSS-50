@@ -11,7 +11,10 @@ export default function HomePage() {
       <Header />
       <div className="home-container">
         <div className="package-boxes">
+          <h2 className="home-title">Reiki & Doula Packages</h2>
+
           <DoulaPackage />
+          <hr className="separator" />
           <ReikiPackage />
         </div>
       </div>

@@ -6,7 +6,7 @@ const ReikiPackage = () => {
   return (
     <div className="package-container">
       <h2>Reiki Package</h2>
-      <ReikiPackageCard />
+
       <p>
         I am trained in the Usui Shiki Ryoho method of Reiki. This is the
         traditional Japanese, hands on energy healing practice formalized by
@@ -23,6 +23,7 @@ const ReikiPackage = () => {
         treatment for any kind of ailment or trauma.
       </p>
       <hr />
+      <ReikiPackageCard />
       <h3>What to expect</h3>
       <p>
         When receiving Reiki, people report feeling a floating sensation,
