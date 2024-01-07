@@ -10,6 +10,9 @@ export default function About() {
       <Header />
       <div className="container">
         <div>
+          <div className="cloud-background">
+            <Clouds />
+          </div>
           <div className="about-container">
             <h1 className="about-title">About Me</h1>
             <div className="about-content">
@@ -141,10 +144,6 @@ export default function About() {
               </div>
             </div>
           </div>
-        </div>
-
-        <div className="cloud-background">
-          <Clouds />
         </div>
       </div>
     </div>

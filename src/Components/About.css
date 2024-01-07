@@ -73,6 +73,7 @@
   justify-content: center;
   text-align: center;
   margin-bottom: 20px; /* Add margin below the container */
+
   padding: 2%; /* Use percentage for padding */
   overflow-y: auto;
 }
