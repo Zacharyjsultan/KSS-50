@@ -64,9 +64,44 @@
 
 .home-title {
   font-size: 2.5rem;
-  margin-top: 2vh;
+  margin-top: 2.1vh;
   margin-bottom: 0.1vh;
 }
 div.package {
   background-color: #fff7e7;
+}
+@media (max-width: 768px) {
+  .home-page {
+    height: auto; /* Adjust the height for smaller screens */
+    padding-bottom: 10vh; /* Add some bottom padding for smaller screens */
+  }
+
+  .home-container {
+    width: 90%; /* Adjust the width for smaller screens */
+    margin-top: 10vh; /* Adjust the top margin for smaller screens */
+  }
+
+  .logo {
+    width: 50%; /* Adjust the width for smaller screens */
+    height: 20vh; /* Adjust the height for smaller screens */
+  }
+
+  .package-boxes {
+    width: 90%; /* Adjust the width for smaller screens */
+  }
+
+  .home-title {
+    font-size: 1.8rem; /* Adjust the font size for smaller screens */
+    margin-top: 1vh; /* Adjust the top margin for smaller screens */
+    margin-bottom: 0.5vh; /* Adjust the bottom margin for smaller screens */
+  }
+
+  /* Additional adjustments for individual package boxes
+  div.package {
+    /* Apply specific styles for individual package boxes on smaller screens if needed */
+
+  /* Adjustments for separator */
+  .separator {
+    margin-top: 10px; /* Add margin above the separator for smaller screens */
+  }
 }

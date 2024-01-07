@@ -74,7 +74,8 @@
   text-align: center;
   margin-bottom: 20px; /* Add margin below the container */
 
-  padding: 2%; /* Use percentage for padding */
+  padding-top: 4%; /* Use percentage for padding */
+
   overflow-y: auto;
 }
 .about-paragraph {
@@ -186,4 +187,42 @@
   list-style: none;
   padding: 0;
   margin-bottom: 1vh;
+}
+
+/* testtting for mobile*/
+
+@media (max-width: 768px) {
+  .about-container {
+    width: 90%; /* Adjust the width for smaller screens */
+    max-width: 90%; /* Adjust the maximum width for smaller screens */
+    padding: 5px; /* Adjust the padding for smaller screens */
+  }
+
+  /* Adjustments for the image size */
+  .about-image {
+    width: 50%; /* Adjust the image width for smaller screens */
+  }
+
+  /* Adjustments for titles */
+  .about-title,
+  .trainings-title,
+  .education-title {
+    margin-top: 5vh; /* Decrease the top margin for titles on smaller screens */
+  }
+
+  /* Adjustments for the cloud size */
+  .giant-cloud {
+    width: 150px; /* Adjust the cloud width for smaller screens */
+    height: 75px; /* Adjust the cloud height for smaller screens */
+  }
+
+  .giant-cloud::before {
+    width: 75px; /* Adjust the cloud before pseudo-element width for smaller screens */
+    height: 60px; /* Adjust the cloud before pseudo-element height for smaller screens */
+  }
+
+  .giant-cloud::after {
+    width: 60px; /* Adjust the cloud after pseudo-element width for smaller screens */
+    height: 45px; /* Adjust the cloud after pseudo-element height for smaller screens */
+  }
 }
