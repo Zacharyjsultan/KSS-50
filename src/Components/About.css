@@ -74,7 +74,8 @@
   text-align: center;
   margin-bottom: 20px; /* Add margin below the container */
 
-  padding: 2%; /* Use percentage for padding */
+  padding-top: 4%; /* Use percentage for padding */
+
   overflow-y: auto;
 }
 .about-paragraph {
