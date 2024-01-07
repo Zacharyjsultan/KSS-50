@@ -13,7 +13,6 @@ const DoulaPackageCard = () => {
         description:
           "Includes: 3 prenatal visits, continuous support during labor and birth & 2 postpartum follow ups ",
         features: [
-          "Getting to know each other and building trust and safety",
           "Creating birth plans and postpartum plans",
           "Practicing comfort measures and labor positions",
           "Somatic grounding exercises and meditations",
@@ -33,7 +32,6 @@ const DoulaPackageCard = () => {
         description:
           "Includes: Birth doula package in addition to Reiki session at each prenatal and postpartum meeting and continuous Reiki during labor and delivery with consent. Additional Reiki sessions available at a discounted rate.",
         features: [
-          "Getting to know each other and building trust and safety",
           "Creating birth plans and postpartum plans",
           "Practicing comfort measures and labor positions",
           "Somatic grounding exercises and meditations",
@@ -52,9 +50,9 @@ const DoulaPackageCard = () => {
 
   return (
     <div className="package">
+      <div></div>
       <h2 className="package-title">{doulaPackage.name}</h2>
       <p className="package-description">{doulaPackage.description}</p>
-
       {doulaPackage.prices.map((price, priceIndex) => (
         <div className="package-price" key={priceIndex}>
           <h3>{price.title}</h3>
@@ -71,11 +69,9 @@ const DoulaPackageCard = () => {
         Can be paid in full or in two installments. First half due at hire and
         second half due at 36 weeks.
       </div>
-      <div>
-        We can create a customized care plan according to your needs. We can
-        also discuss an individualized payment plan or sliding scale payments in
-        case of financial hardship.
-      </div>
+      We can create a customized care plan according to your needs. We can also
+      discuss an individualized payment plan or sliding scale payments in case
+      of financial hardship.
     </div>
   );
 };

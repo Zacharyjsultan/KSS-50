@@ -16,7 +16,7 @@ const DoulaPackage = () => {
       <div className="review">
         <h3>Doula Reviews</h3>
         <p>
-          Being new parents comes with a lot of responsibility, anxiety and
+          "Being new parents comes with a lot of responsibility, anxiety and
           unknowns. Having Keely be at our sides throughout the birth process
           was everything our little family needed. Keely was thoughtful,
           informative professional and intentional in how she worked with us
@@ -25,10 +25,10 @@ const DoulaPackage = () => {
           hospital staff throughout our entire birth experience. It was both an
           intense yet magical experience made better with Keely’s guidance and
           support. We would highly recommend working with Keely as your birth
-          doula. - Israel, Lauren and Sauvie
+          doula." - Israel, Lauren and Sauvie
         </p>
         <p>
-          Keely changed the course of our pregnancy towards an experience of
+          " Keely changed the course of our pregnancy towards an experience of
           trust and confidence. We are eternally grateful to her for being a
           source of care and wisdom throughout the pregnancy and beyond. Keely
           has a beautiful quality about her that allows her to care for subtle
@@ -45,8 +45,7 @@ const DoulaPackage = () => {
           our side. We highly recommend Keely for birthing women and families.
           Know that when you bring Keely into the process you will experience
           care on deep personal levels and coordinated/practical levels that
-          enrich and strengthen the birthing process. With deepest appreciation,
-          Erica, Ken, and baby Octavio :
+          enrich and strengthen the birthing process." - Erica, Ken and Octavio
         </p>
       </div>
     </div>

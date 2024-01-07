@@ -50,8 +50,8 @@ const ReikiPackage = () => {
       <div className="review">
         <h3>Reiki Reviews</h3>
         <p>
-          Before speaking with Keely, I was reticent about Reiki. I have anxiety
-          and ADHD and it is very difficult for me to just relax. I had
+          "Before speaking with Keely, I was reticent about Reiki. I have
+          anxiety and ADHD and it is very difficult for me to just relax. I had
           practiced yoga, meditation, and many other forms of mindfulness to no
           avail - so why would Reiki be any different? But from the start, Keely
           made me feel so comfortable with the entire process and helped me get
@@ -65,12 +65,12 @@ const ReikiPackage = () => {
           that connection. I am healing both physically and emotionally from the
           trauma of my injuries, and no small part of that is the work that
           Keely has been doing with me. I cannot recommend her and her services
-          enough. - Michaela
+          enough." - Michaela
         </p>
         <p>
-          Keely has a gentle and intuitive approach to this energy work. Her
+          "Keely has a gentle and intuitive approach to this energy work. Her
           feedback has helped me feel more grounded and more certain in what my
-          body needs. -Kelly
+          body needs." -Kelly
         </p>
       </div>
       <hr className="separator" />
