@@ -14,10 +14,10 @@ export default function About() {
             <Clouds />
           </div>
           <div className="about-container">
-            <h1 className="about-title">About Me</h1>
+            <h1 className="about-title">Keely Shea</h1>
             <div className="about-content">
               <div className="about-left">
-                <h3 className="about-name">Keely Shea</h3>
+                <h3 className="about-name">Reiki Master & Birth Doula</h3>
                 <img
                   className="about-image"
                   src={process.env.PUBLIC_URL + "/2keely2.jpeg"}
