@@ -1,22 +1,22 @@
 import React from "react";
 import "./HomePage.css";
 import Header from "./Header&Footer/Header";
-import PriceCard from "./components/PriceCard";
+
+import DoulaPackage from "./components/DoulaPackage";
+import ReikiPackage from "./components/ReikiPackage";
 
 export default function HomePage() {
   return (
-    <div>
-      <div className="home-page">
-        <div className="header-container">
-          <Header />
+    <div className="home-page">
+      <Header />
+      <div className="home-container">
+        <div className="package-boxes">
+          <h2 className="home-title">Reiki & Doula Packages</h2>
+
+          <DoulaPackage />
+
+          <ReikiPackage />
         </div>
-        <div className="home-container">
-          <h1 className="price-card-boxes">
-            <img className="logo" src="/keelylogo.png" alt="Keely Logo" />
-            <PriceCard />
-          </h1>
-        </div>
-        <div className="footer-container"></div>
       </div>
     </div>
   );

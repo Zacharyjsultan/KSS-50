@@ -6,6 +6,12 @@ https://miro.com/app/board/uXjVMt9r-sg=/
 
 ## testimonials
 
+## mission statemment 01/2024
+
+My mission is to provide holistic birth doula care that is person-centered, trauma informed and evidence based. I aim to provide a space and tools for all kinds of families and individuals to feel empowered by listening to their own intuitive wisdom and deeper knowing. I believe all healing is self healing, and you are the expert of your body. As a Reiki practitioner I am a witness, supporter and facilitator of your healing journey.
+
+##
+
 Being new parents comes with a lot of responsibility, anxiety and unknowns. Having Keely be at our sides throughout the birth process was everything our little family needed.
 
 Keely was thoughtful, informative professional and intentional in how she worked with us leading up to our son’s birth, and amazing the day of. She was calm, cool and collected as she worked with both mom and dad along with the hospital staff throughout our entire birth experience. It was both an intense yet magical experience made better with Keely’s guidance and support. We would highly recommend working with Keely as your birth doula.

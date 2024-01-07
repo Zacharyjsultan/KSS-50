@@ -15,35 +15,27 @@
 }
 
 .giant-cloud {
-  position: relative;
-  width: 200px;
-  height: 100px;
+  position: absolute; /* Change to absolute positioning for accurate placement */
+  width: 250; /* Increase the width */
+  height: 120; /* Increase the height */
   background-color: #f5f5f5;
-  border-radius: 100px;
-  margin: 100px auto;
-  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
-}
-
-.giant-cloud::before,
-.giant-cloud::after {
-  content: "";
-  position: absolute;
-  background-color: inherit;
-  border-radius: inherit;
+  border-radius: 150px; /* Adjust border-radius to match half of the height */
+  margin: 0; /* Remove margin */
+  box-shadow: 0px 8px 15px rgba(2, 2, 2, 0.4);
 }
 
 .giant-cloud::before {
-  width: 100px;
-  height: 80px;
-  top: -30px;
-  left: 30px;
-  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+  width: 180px; /* Adjust the dimensions of the pseudo-element */
+  height: 120px; /* Adjust the dimensions of the pseudo-element */
+  top: -45px; /* Fine-tune the positioning */
+  left: 45px; /* Fine-tune the positioning */
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
 }
 
 .giant-cloud::after {
-  width: 80px;
-  height: 60px;
-  top: -20px;
-  right: 30px;
+  width: 120px; /* Adjust the dimensions of the pseudo-element */
+  height: 90px; /* Adjust the dimensions of the pseudo-element */
+  top: -30px; /* Fine-tune the positioning */
+  right: 45px; /* Fine-tune the positioning */
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
 }

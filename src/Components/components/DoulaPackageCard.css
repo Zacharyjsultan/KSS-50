@@ -1,0 +1,78 @@
+.package {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* width: 300px;
+  height: 400px; */
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+
+  margin: 10px;
+}
+
+.doula-package {
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 250px;
+  margin: 10px;
+}
+
+.package-container {
+  margin-top: 120px; /* Adjust the margin-top value as needed */
+}
+.doula-package-title {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #333; /* Text color */
+}
+
+.doula-package-price {
+  font-size: 1.2rem;
+
+  margin-bottom: 15px;
+  color: #0077b6; /* Price color */
+}
+
+.doula-package-features {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.doula-package-features li {
+  margin-bottom: 3px;
+}
+
+/* Media Query for Layout */
+@media (max-width: 768px) {
+  .doula-package {
+    width: 100%; /* Full width for smaller screens */
+  }
+}
+
+h1,
+h2 {
+  font-family: "Archivo Black", sans-serif;
+}
+
+.description-space {
+  padding-bottom: 2vh;
+}
+
+.package-features {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.package-description {
+  width: 50vw;
+}
