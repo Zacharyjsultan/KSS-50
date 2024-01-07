@@ -14,7 +14,7 @@ export default function HomePage() {
           <h2 className="home-title">Reiki & Doula Packages</h2>
 
           <DoulaPackage />
-          <hr className="separator" />
+
           <ReikiPackage />
         </div>
       </div>

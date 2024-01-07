@@ -37,6 +37,16 @@ const ReikiPackage = () => {
         Reiki should be utilized as a complementary therapy.
       </p>
       <hr />
+      <h3> Reiki and Birth</h3>
+      <p>
+        Reiki can provide numerous benefits to the birth person and baby during
+        the perinatal period. Some of its benefits include pain relief, stress
+        reduction, and sleep improvement. It can also enhance bond with the
+        baby, support the baby's well being, and can help heal birth trauma.
+        Overall, I would say the biggest benefit is that Reiki helps in
+        regulating the birth person’s nervous system, which is vital for
+        positive birth outcomes and postpartum recovery.
+      </p>
       <div className="review">
         <h3>Reiki Reviews</h3>
         <p>
@@ -63,7 +73,7 @@ const ReikiPackage = () => {
           body needs. -Kelly
         </p>
       </div>
-
+      <hr className="separator" />
       <div className="social-links">
         <h4 className="calendly-scheduler"> Schedule here</h4>
         <div class="arrow"></div>

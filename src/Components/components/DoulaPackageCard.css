@@ -65,3 +65,10 @@ h2 {
 .description-space {
   padding-bottom: 2vh;
 }
+
+.package-features {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
