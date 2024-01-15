@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const ReikiPackage = () => {
   return (
     <div className="package-container">
-      <h2>Reiki Package</h2>
+      <h2>Reiki</h2>
 
       <p>
         I am trained in the Usui Shiki Ryoho method of Reiki. This is the
