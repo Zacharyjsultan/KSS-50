@@ -4,14 +4,12 @@ import "./ReikiPackageCard.css";
 const ReikiPackageCard = () => {
   const reikiPackage = {
     title: "Reiki",
-    description:
-      "Experience the healing power of Reiki with our tailored sessions.",
+    description: "Reiki Sessions",
     prices: [
       {
         price: "$60.00 - $85.00/hour",
-        description:
-          "Indulge in a relaxing experience with a sound bath, oil diffusion, and personalized sessions.",
-        features: ["Fridge and Friends - every Tuesday"],
+        description: "",
+        features: ["Fridge and Friends - every Tuesday"] /* add the address */,
       },
     ],
   };
