@@ -1,5 +1,12 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 export default function Testimonals() {
-  return <div>Testimonals</div>;
+  return (
+    <div>
+      <div>
+        <Link to="/">Home</Link>
+      </div>
+    </div>
+  );
 }

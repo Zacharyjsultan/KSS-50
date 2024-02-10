@@ -3,7 +3,7 @@
   align-items: center;
   justify-content: center;
   background-color: #ffc794;
-  height: 270vh;
+  height: 240vh;
   font-family: "Judson", serif;
 
   width: 100vw;
@@ -31,17 +31,19 @@
   background-color: #ffeede;
   border-radius: 5%;
   box-shadow: 2% 4% 2% rgba(0, 0, 0, 0.1);
-  width: 75%;
+  width: 78vw;
+  height: 140vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: center;
-  padding: 1%;
+  padding: 8%;
   overflow-y: auto;
-  margin-top: 78vh;
-  padding-top: auto;
-  padding-bottom: auto;
+  margin-top: fit-content;
+
+  padding-top: 180vh;
+
   -webkit-box-shadow: 0px 0px 15px 3px rgba(255, 255, 224, 0.9);
   -moz-box-shadow: 0px 0px 15px 3px rgba(255, 255, 224, 0.9);
   box-shadow: 0px 0px 15px 3px rgba(255, 255, 224, 0.9);
