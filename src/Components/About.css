@@ -1,12 +1,12 @@
 .about-background {
   background-color: #b1a2ca;
   height: auto;
-  width: 100vw;
+  width: 10vw;
   display: flex;
   font-family: "Judson", serif;
   justify-content: center;
   align-items: center;
-  padding-bottom: 10vh;
+  padding-bottom: 12vh;
 }
 
 .container {
@@ -16,6 +16,7 @@
   display: flex;
   flex-direction: column; /* Ensure content stacks vertically */
   margin-top: 16vh;
+  margin-bottom: 2vh;
 }
 
 .giant-cloud {
@@ -63,7 +64,7 @@
   -webkit-box-shadow: 0px 0px 15px 3px rgba(255, 255, 224, 0.9);
   -moz-box-shadow: 0px 0px 15px 3px rgba(255, 255, 224, 0.9);
   box-shadow: 0px 0px 15px 3px rgba(255, 255, 224, 0.9);
-  width: 73%; /* Use percentage for width */
+  width: 79%; /* Use percentage for width */
   min-height: 70vh; /* Set a minimum height */
   max-width: 91vw; /* Use a combination of percentage and max-width */
   max-height: 90vh; /* Use a combination of percentage and max-height */
@@ -72,10 +73,10 @@
   align-items: center;
   justify-content: center;
   text-align: center;
-  margin-bottom: 20px; /* Add margin below the container */
-
-  padding-top: 4%; /* Use percentage for padding */
-
+  margin-bottom: 10vh;
+  margin-top: 4vh;
+  padding-top: 23vh;
+  padding-bottom: 4%;
   overflow-y: auto;
 }
 .about-paragraph {

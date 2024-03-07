@@ -3,7 +3,7 @@
   align-items: center;
   justify-content: center;
   background-color: #ffc794;
-  height: 270vh;
+  height: 260vh;
   font-family: "Judson", serif;
 
   width: 100vw;
@@ -24,24 +24,31 @@
 }
 
 .home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
   position: absolute;
-  top: 50%;
+  top: 75%;
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: #ffeede;
   border-radius: 5%;
   box-shadow: 2% 4% 2% rgba(0, 0, 0, 0.1);
-  width: 75%;
+  width: 76vw;
+  height: 180vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: center;
-  padding: 1%;
+  padding: 8%;
   overflow-y: auto;
-  margin-top: 78vh;
-  padding-top: auto;
-  padding-bottom: auto;
+  margin-top: fit-content;
+
+  padding-top: 140vh;
+
   -webkit-box-shadow: 0px 0px 15px 3px rgba(255, 255, 224, 0.9);
   -moz-box-shadow: 0px 0px 15px 3px rgba(255, 255, 224, 0.9);
   box-shadow: 0px 0px 15px 3px rgba(255, 255, 224, 0.9);
@@ -78,7 +85,7 @@ div.package {
 
   .home-container {
     width: 90%; /* Adjust the width for smaller screens */
-    margin-top: 10vh; /* Adjust the top margin for smaller screens */
+    margin-top: 100vh; /* Adjust the top margin for smaller screens */
   }
 
   .logo {
@@ -104,4 +111,15 @@ div.package {
   .separator {
     margin-top: 10px; /* Add margin above the separator for smaller screens */
   }
+}
+
+div.header-buttons {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 1.8vh;
+  margin-bottom: 2vh;
+}
+
+div.home-container {
+  scroll-behavior: smooth;
 }
