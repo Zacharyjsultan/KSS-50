@@ -47,7 +47,7 @@ const ReikiPackage = () => {
         regulating the birth person’s nervous system, which is vital for
         positive birth outcomes and postpartum recovery.
       </p>
-      <div className="review">
+      {/* <div className="review">
         <h3>Reiki Reviews</h3>
         <p>
           "Before speaking with Keely, I was reticent about Reiki. I have
@@ -72,7 +72,7 @@ const ReikiPackage = () => {
           feedback has helped me feel more grounded and more certain in what my
           body needs." -Kelly
         </p>
-      </div>
+      </div> */}
       <hr className="separator" />
       <div className="social-links">
         <h4 className="calendly-scheduler"> Schedule here</h4>

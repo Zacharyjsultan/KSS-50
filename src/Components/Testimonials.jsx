@@ -1,11 +1,12 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import "./Testimonials.css";
+import Header from "./Header&Footer/Header";
 
 export default function Testimonals() {
   return (
     <div>
+      <Header />
       <div>
-        <Link to="/">Home</Link>
         <div>
           Keely, You are wonderful at what you do. The reiki session I had with
           you was revealing and healing. I hope to book a session with you again
@@ -24,6 +25,7 @@ export default function Testimonals() {
             connection from within. Thank you, Keely! -Erica
           </div>
         </div>
+        <div></div>
       </div>
     </div>
   );

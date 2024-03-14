@@ -55,29 +55,28 @@
 .about-container {
   position: absolute;
   top: 50%;
+  overflow-y: auto;
   left: 50%;
   transform: translate(-50%, -50%);
   z-index: 2;
   background-color: #f1e8ff;
-  border-radius: 5%; /* Use percentage for border radius */
-  /* box-shadow: 0 10px 20px rgba(0, 3, 0, 1.8); */
+  border-radius: 9%;
   -webkit-box-shadow: 0px 0px 15px 3px rgba(255, 255, 224, 0.9);
   -moz-box-shadow: 0px 0px 15px 3px rgba(255, 255, 224, 0.9);
   box-shadow: 0px 0px 15px 3px rgba(255, 255, 224, 0.9);
-  width: 79%; /* Use percentage for width */
-  min-height: 70vh; /* Set a minimum height */
-  max-width: 91vw; /* Use a combination of percentage and max-width */
-  max-height: 90vh; /* Use a combination of percentage and max-height */
+  width: 79%;
+  min-height: 80vh; /* Increase min-height for more room */
+  max-width: 95vw;
+  max-height: 110vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: center;
-  margin-bottom: 10vh;
-  margin-top: 4vh;
-  padding-top: 23vh;
-  padding-bottom: 4%;
-  overflow-y: auto;
+  margin-bottom: 2vh; /* Decrease margin-bottom for more room */
+  margin-top: 2vh; /* Decrease margin-top for more room */
+  padding-top: 12vh;
+  padding-bottom: 26vh; /* Increase padding-bottom for more room */
 }
 .about-paragraph {
   margin-top: 20px;
@@ -176,6 +175,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  font-size: 1em;
 }
 
 .education-title {

@@ -13,7 +13,7 @@ const DoulaPackage = () => {
         whatever you decide for your birth experience.{" "}
       </p>
       <hr />
-      <div className="review">
+      {/* <div className="review">
         <h3>Doula Reviews</h3>
         <p>
           "Being new parents comes with a lot of responsibility, anxiety and
@@ -47,7 +47,7 @@ const DoulaPackage = () => {
           care on deep personal levels and coordinated/practical levels that
           enrich and strengthen the birthing process." - Erica, Ken and Octavio
         </p>
-      </div>
+      </div> */}
     </div>
   );
 };
